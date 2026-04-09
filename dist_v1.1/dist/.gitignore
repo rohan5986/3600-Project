@@ -1,1 +1,3 @@
 3600-agents/matches/
+.venv
+__pycache__/
